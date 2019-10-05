@@ -10,4 +10,5 @@ urlpatterns = [
     path('index7/',views.Index7,name="index7"),
     path('list/',views.list,name='list'),
     path('chat/', views.HomeView, name='chat')
+
 ]
